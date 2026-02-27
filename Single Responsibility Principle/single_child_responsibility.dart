@@ -1,3 +1,8 @@
+///Benefits
+///1. Easier to maintain and understand.
+///2. Follow clean code structure.
+///3. Easier to test features.
+
 //!Wrong way or the volation of Single child resonsibilty principle
 class UserManager {
   bool authenticateUser(String userName, String password) => true;
